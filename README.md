@@ -2,7 +2,7 @@
 Converts raw NTFS change logs into a clean, chronological timeline of file activities
 
 ## BeeHive
-Translate and displays data from some of major Windows Registry hives as entries, specifically **Amcache**, **BAM**, **UserAssist**, **USBstore**, **OpenSave** as of now
+Translates and displays data from some of major Windows Registry hives as entries, specifically **Amcache**, **BAM**, **UserAssist**, **USBstore**, **OpenSave** as of now
 
 ## Prefetcher
 Views prefetch files to display detailed info about them, you can view loaded files by **Right-Clicking** an entry. You can also view java's deleted entries by clicking **deleted entries** button
